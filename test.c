@@ -19,7 +19,8 @@ int ret = 0;
 
 #define MAXDATASIZE 54
 
-
+#define MAXDATASIZE 54
+#define MAXNODESIZE 50 //定义最大节点的个数
 
 #define PORT 5222
 #define NodeFlag 18  //表示以1开始计数（不是0），数据包的第2个字节为节点的标志信息位，在gatwayserves中使用！
