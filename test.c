@@ -84,6 +84,7 @@ int main(int argc,char *argv[])
 
 
 
+
 void gatwayserves(char *argv[])
 {
 	struct sockaddr_in server;
